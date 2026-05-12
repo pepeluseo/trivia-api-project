@@ -44,6 +44,34 @@ PROYECTO-API/
 
 ---
 
+## Application Screenshots
+
+### Questions Endpoint
+
+This screenshot shows the API response for retrieving paginated trivia questions.
+
+<img src="screenshots/API_QUESTIONS.png" alt="Questions endpoint response" width="800"/>
+
+---
+
+### Create Question Endpoint
+
+This screenshot shows the API response for creating a new trivia question using a POST request.
+
+<img src="screenshots/API_POST.png" alt="Create question POST endpoint response" width="800"/>
+
+---
+
+### Delete Question Endpoint
+
+This screenshot shows the API response for deleting a trivia question using a DELETE request.
+
+<img src="screenshots/API_DELETE.png" alt="Delete question endpoint response" width="800"/>
+
+---
+
+---
+
 ## Backend Setup
 
 ### 1. Start PostgreSQL and Set Up the Database
