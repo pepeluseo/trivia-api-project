@@ -20,7 +20,7 @@ The application allows users to:
 ## Project Structure
 
 ```text
-trivia/
+PROYECTO-API/
 ├── backend/
 │   ├── flaskr/
 │   │   ├── __init__.py
@@ -35,7 +35,10 @@ trivia/
 │   ├── src/
 │   ├── package.json
 │   └── README.md
-│
+├── screenshots/
+│   ├── API_DELETE.png
+│   ├── API_POST.png
+│   ├── API_QUESTIONS.png
 └── README.md
 ```
 
